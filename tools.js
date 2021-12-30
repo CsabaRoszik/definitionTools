@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { REPLACES, TEMPLATE_FOLDER } = require("./constants");
+const { REPLACES, TEMPLATE_FOLDER, OUTPUT_FOLDER } = require("./constants");
 
 module.exports = {
   getTemplates: () => {
@@ -14,7 +14,7 @@ module.exports = {
     };
   },
   getDefinitions: () => {
-    const data = fs.readFileSync(path.resolve(__dirname, 'assets', 'definitions_edited.json'), 'utf8');
+    const data = fs.readFileSync(path.resolve(OUTPUT_FOLDER, 'definitions.json'), 'utf8');
     const { definitions } = JSON.parse(data);
     return definitions;
   },
