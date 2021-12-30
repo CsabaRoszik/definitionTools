@@ -1,0 +1,92 @@
+﻿id;title;description
+1;nem kötő elektronpár;Olyan elektronpárok kovalens kötésben, amik csak az egyik atom körül keringenek.
+2;kovalens kötés;Olyan elsőrendű kémiai kötés, amelyben az atomok vegyérték elektronjaikkal kapcsolódnak össze.
+3;dipólus molekula;Olyan molekula, amiben az alkotó atomok közül az egyik jobban vonzza a kötő elektronpárokat mint a másik így pólusok alakulnak ki.
+4;hőmérséklet;Az anyagok belső energiáját jelző fizikai mennyiség
+5;nyomás;A nyomóerő és a nyomott felület hányadosa.
+6;;jele: P
+7;Snowball Earth;Az elmélet szerint több mint 650 millió évvel ezelőtt a Föld felszínét teljesen vagy nagyon nagy mértéken jég borította.
+8;oldószer;Olyan anyag, amely egy kémiailag eltérő anyagot (oldott anyag), oldat keletkezése közben felold.
+9;reakcióközeg;A reakciók anyagait feloldja.
+10;reakció termék;A kémiai reakciók eredményeként keletkezett anyagok.
+11;reakció partner;A kémiai reakciókban résztvevő anyagok.
+12;hőmérsékleti puffer;Olyan anyag, ami tompítja a hő hőmérséklet emelő hatását.
+13;makromolekula;Több kémiai kötéssel kapcsolódó atomból álló egység.
+14;monomer;A dimert felépítő kémiai részecskék.
+15;dimer;Egy olyan részecske, amely két monomerből áll, amelyeket erős vagy gyenge, kovalens kötés köt össze.
+16;kondenzáció;Olyan kémiai reakció, melynek során a két vagy több reagáló molekula egyetlen fő termékké alakul, miközben víz vagy más kis molekula keletkezik.
+17;hidrolízis;A kovalens kötések víz jelenlétében megszakadhatnak, ilyenkor egy dimer részecskéből két monomer részecske keletkezik.
+18;fajhő;Megmutatja, hogy hány KJ hőmennyiség szükséges ahhoz, hogy az adott anyag 1kg tömegű részének hőmérsékletét 1 °C-kal növeljük.
+19;sűrűség;az adott térfogategység tömegének mértéke.
+20;;jele: ρ
+21;oldat;Olyan keverék, amelyben a legnagyobb arányban jelen levő komponens folyadék halmazállapotú.
+22;oldott anyag;Az oldatban kisebb arányban jelen levő anyag.
+23;valódi oldat;Olyan vizes oldat, amiben az oldott anyag részecskéi 1nm-nél kisebbek. A fény akadálytalanul áthalad az oldaton.
+24;kolloid rendszer;Olyan vizes oldat, amiben az oldott anyag részecskéi 1 nm-nél nagyobbak és 500 nm-nél kisebbek. A fény megtörik az oldatban.
+25;durva diszperz rendszer;Olyan vizes oldat, amiben az oldott anyag részecskéi 500-1000 nm-nél kisebbek. A fény nem halad át az oldaton.
+26;emulzió;Olyan durva diszperz rendszer, amelyben a diszpergált anyag egy vízben nem oldható folyadék.
+27;szuszpenzió;Olyan durva diszperz rendszer, amelyben a diszpergált anyag egy vízben nem oldható szilárd anyag.
+28;kémiailag tiszta anyag;Egy anyag akkor kémiailag tiszta, ha az csak egyféle anyagból áll. Ilyenek az elemek és a vegyületek.
+29;komponens;A komponensek egy rendszert alkotó, kémiailag egységes részecskék
+30;keverék;Több kémiailag tiszta anyagból álló anyagi halmaz.
+31;diszpergált anyag;A folyadékokban eloszlatott anyag.
+32;(Farday)Tyndall-jelenség;Kolloidokban lejátszódó fényszóródási jelenség. Nevét felfedezőjéről, John Tyndall-ról kapta. A jelenség során a kolloidba érkező fényt a kolloidban lévő részecskék szórják.
+33;Makromolekuláris kolloid rendszer;Olyan kolloid rendszer, amelyben a diszpergált anyag részecskéi egymagukban is elérik a kolloid mérethatárt (1nm).
+34;Asszociális kolloid;Olyan kolloid rendszer, amelyben a diszpergált anyag részecskéi egymagukban nem érik el a kolloid mérethatárt ezért micellákká állnak össze.
+35;micella;Felületaktív anyagokat tartalmazó rendszerek. Hidrofil és lipofil (zsírkedvelő) részekből állnak. Az asszociációs kolloid rendszerekben a részecskék micellákká alakulnak.
+36;hidrátburok;Amikor ionos vegyületeket oldunk vízben, az ionok kiszakadnak az ionrácsból és a vízmolekulák az ionok köré rendeződnek, ez a hidrát burok.
+37;szabad víz;A sejtfalakhoz nem kötődő, szabadon áramló víz a sejtek közt.
+38;adszorpció;Felületi megkötődés. Az a folyamat, ami során az anyagok/sejtek megkötődnek az adszorbens anyag felületén.
+39;fajlagos felület;Az anyag felületének és a tömegének a hányadosa.
+40;adszorbens;Az az anyag, amelynek felszínén az anyagok/sejtek képesek megkötődni.
+41;adszorbeált anyag;Az a kémiai részecske/sejt, amely az adszorbens felszínén megkötődik.
+42;adszorpciós hő;Az adszorpció során felszabaduló hő.
+43;ionadszorpció;Az adszorbensek töltéssel bíró aktív helyei a felület töltésével ellentétes töltésű ionokat kötnek meg.
+44;Lioszól állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrátburkok nem érnek, össze a kolloid részecskék szabadon mozognak, a részecskék között van szabad víz.
+45;Liogél állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrátburkok összeérnek, nincs szabad víz a részecskék között, a részecskék nem mozognak szabadon.
+46;Xerogél állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrát burkok összeérnek, vékonyak, nincs a részecskék közt szabad víz, nem mozognak szabadon.
+47;Boltzmann- állandó;Az a fizikai állandó, amely a test hőmérséklete és az azt felépítő részecskék mozgási energiája közötti kapcsolatban szerepel. Megmutatja hogy1 foknyi hőmérséklet-emelkedés esetén adott anyag molekulája szabadságfokonként átlagosan hány k energiát vesz fel.
+48;;kB = 1,380649·10−23 J/K
+49;homogén rendszerek;A részecskék molekuláris, illetve atomi méretekben keverednek egymással, nincs a rendszerekben fázishatár.
+50;heterogén rendszerek;Olyan anyagi rendszer, amelyben egy vagy több fázishatár van.
+51;mikroheterogén rendszerek;A felület-térfogat aránya, illetve a felületi energia alapján csoportosított anyagi rendszer.
+52;fázis;Az anyagi rendszerek azonos fizikai, kémiai tulajdonsággal rendelkező egységei.
+53;fázishatár;Az a határfelület, mely a fázisokat választja el.
+54;diffúzió;Koncentráció különbség hatására bekövetkező anyagvándorlás. Az anyagok a magasabb oldott anyag koncentrációjú hely felől, az alacsonyabb oldott anyag koncentrációjú hely felé áramlanak. A diffúzió a koncentrációk kiegyenlítődéséig tart.
+55;koncentráció;Megmutatja, hogy az elegyek, keverékek vagy oldatok egyik komponensének hány mólja található egy dm3 oldatban. 
+56;viszkozitás;Egy folyadék vagy gáz belső súrlódásának mértéke.
+57;dinamikus egyensúlyi állapot;A diffúzió vége. A bruttó anyagáramlás befejeződött, de a részecskék továbbra is mozognak.
+58;ozmózis;Féligáteresztő hártyán keresztül végbemenő víz diffúzió. A víz az alacsonyabb oldott anyag koncentrációjú hely felől a magasabb oldott anyag koncentrációjú hely felé áramlik. Az ozmózis az ozmózisnyomás és a turgornyomás kiegyenlítődéséig tart.
+59;szemipermeábilis membrán;Olyan hártya, amely bizonyos anyagokat átereszt másokat nem.
+60;turgornyomás;A sejtfalra kifejtett nyomás.
+61;ozmózisnyomás;Az a nyomás, ami a féligáteresztő hártyán átáramló anyag (oldószer) áramlását (az ozmózist) megakadályozza.
+62;szelektivitás;szűrőképesség
+63;glükóz;szőlőcukor
+64;szacharóz;kristálycukor
+65;foszfolipid;Olyan zsírszerű anyag, amely a sejtmembránt alkotja.
+66;ioncsatorna;A sejtmembrán oldalait összekötő csatorna.
+67;extracelluláris folyadék;A sejten kívül elhelyezkedő folyadék.
+68;hidrofil részecske;Olyan részecskék, amelyek elegyednek vízzel.
+69;hidrofób részecske;Olyan részecskék, amelyek nem elegyednek vízzel.
+70;apoláros molekula;Olyan molekula, amely azonos atomokból épül fel.
+71;toxin;Biológiai folyamat során létrejövő méreg.
+72;ion;Elektromos töltéssel rendelkező atom/molekula.
+73;szteroid hormon;Olyan, lipidek családjába tartozó szerves molekulák, amiket a sejtek állítanak elő.
+74;peptid hormon;Meghatározott sorrendben összekapcsolódó, aminosavakból felépülő rövid polimerek.
+75;hipotóniás oldat;Olyan oldat, amelynek az oldott anyag koncentrációja alacsonyabb, mint a benne lévő sejteké.
+76;izotóniás oldat;Olyan oldat, amelynek az oldott anyag koncentrációja megegyezik, a benne lévő sejtekével.
+77;hipertóniás oldat;Olyan oldat, amelynek az oldott anyag koncentrációja magasabb, mint a benne lévő sejteké.
+78;hemolízis;Olyan jelenség, melynél a vörösvérsejtek sejtmembránja megbomlik és a sejt anyaga a környező folyadékba kerül.
+79;hemoglobin;A vörösvérsejtekben lévő fehérjemolekula, amely az oxigén megkötéséért és szállításáért felelős.
+80;endocitózis;Az a folyamat, melynek során egy sejt a körülötte lévő makromolekulákat, oldott anyagokat, szilárd részecskéket bekebelezi.
+81;exocitózis;Az a folyamat, melynek során az emészthetetlen anyagok kikerülnek a sejtekből.
+82;sejtmembrán;A sejteket körülvevő hártya.
+83;Malária;Trópusokon terjedő, magas lázzal járó betegség, melynek kórokozója a lázállatka. Vektorállata a maláriaszúnyog.
+84;Álomkór;Afrikai elterjedésű betegség. Kórokozója az álomkórostoros. Vektorállata a cecelégy.
+85;Leihsmaniasis;Latin-amerikai elterjedésű betegség. Kórokozója a Leishmania ostoros. Vektorállata egy poloskafaj.
+86;fiziológiai sóoldat;Olyan sóoldat, ami ~0,87% NaCl-ot és egyéb sókat tartalmaz. Az infúziók alapoldata.
+87;Ringer-oldat;olyan izotóniás sóoldat keverék, melyben az élő szervezetből eltávolított szövetek viszonylag hosszú ideig életben tarthatók, miközben élettani működésük vizsgálható.
+88;lüktetési frekvencia;Lüktetések száma, egységnyi idő alatt.
+89;plazmolízis;Olyan folyamat, amely csak a sejtfallal rendelkező sejtekkel történhet meg. A külső tér oldott anyag koncentrációja magasabb, mint a sejt citoplazmájának oldott anyag koncentrációja. Ozmózis történik.  A víz kiáramlik a sejtből, a citoplazma összezsugorodik. A sejtmembrán elválik a sejtfaltól.
+90;deplazmolízis;Fordított plazmolízis. A külső térnek alacsonyabb az oldott anyag koncentrációja, mint a citoplazma oldott anyag koncentrációja. A víz beáramlik a sejtbe. A citoplazma térfogata nő. Megduzzad a sejt, de nem durran ki a sejtfalra gyakorolt nyomás miatt.
+;;
