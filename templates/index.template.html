@@ -1,7 +1,97 @@
 <html>
+  <head>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      .flat {
+        max-height: 0 !important;
+        overflow: hidden;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+      .definitions {
+        margin: 0;
+        padding: 0;
+      }
+
+      .definition {
+        list-style-type: none;
+        margin: 5px;
+        padding: 5px;
+        background-color: white;
+        max-height: 2em;
+        transition: max-height .3s ease-in-out, margin .3s ease-in-out, padding .3s ease-in-out;
+      }
+
+      .searchterm {
+        margin: 10px;
+        position: sticky;
+        top: 18px;
+        box-shadow: 0 0 10px 19px white;
+        border: 1px solid gray;
+        padding: 3px;
+        border-radius: 3px;
+      }
+
+      .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: white;
+        background-color: rgba(255, 255, 255, 0.5);
+        padding: 20px;
+        overflow: hidden;
+      }
+
+      .popup {
+        width: 100vw;
+        height: 100vh;
+        max-width: 400px;
+        max-height: 300px;
+        margin: auto;
+        border: none;
+        box-shadow: 0 0 10px lightgrey;
+        border-radius: 3px;
+        position: relative;
+      }
+
+      .popup iframe {
+        height: 100%;
+        width: 100%;
+        border: none;
+      }
+
+      .blurred {
+        filter: blur(3px);
+      }
+
+      .close {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        color: red;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+
   <body>
-    <ul>
-      %LIST%
-    </ul>
+    <div class="container">
+      <ul class="definitions">
+        %LIST%
+      </ul>
+    </div>
+    <script type="text/javascript" src="./jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="./search.js"></script>
   </body>
+
 </html>

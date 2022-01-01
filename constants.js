@@ -7,7 +7,10 @@ module.exports = {
   FILE_NAME_PLACEHOLDER: '%FILE_NAME%',
   TEMPLATE_FOLDER: path.resolve(__dirname, 'templates'),
   OUTPUT_FOLDER: path.resolve(__dirname, 'dist'),
-  REPLACES: [
+  ASSETS_FOLDER: path.resolve(__dirname, 'assets'),
+  ASSETS_TO_COPY: [ 'jquery-3.6.0.min.js', 'search.js'],
+  BR: '<br />',
+  FILENAME_REPLACES: [
     ['á', 'a'],
     ['é', 'e'],
     ['í', 'i'],

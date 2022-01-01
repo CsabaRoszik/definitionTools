@@ -3,8 +3,8 @@
 2;kovalens kötés;Olyan elsőrendű kémiai kötés, amelyben az atomok vegyérték elektronjaikkal kapcsolódnak össze.
 3;dipólus molekula;Olyan molekula, amiben az alkotó atomok közül az egyik jobban vonzza a kötő elektronpárokat mint a másik így pólusok alakulnak ki.
 4;hőmérséklet;Az anyagok belső energiáját jelző fizikai mennyiség
-5;nyomás;A nyomóerő és a nyomott felület hányadosa.
-6;;jele: P
+5;nyomás;"A nyomóerő és a nyomott felület hányadosa.
+jele: P"
 7;Snowball Earth;Az elmélet szerint több mint 650 millió évvel ezelőtt a Föld felszínét teljesen vagy nagyon nagy mértéken jég borította.
 8;oldószer;Olyan anyag, amely egy kémiailag eltérő anyagot (oldott anyag), oldat keletkezése közben felold.
 9;reakcióközeg;A reakciók anyagait feloldja.
@@ -17,8 +17,8 @@
 16;kondenzáció;Olyan kémiai reakció, melynek során a két vagy több reagáló molekula egyetlen fő termékké alakul, miközben víz vagy más kis molekula keletkezik.
 17;hidrolízis;A kovalens kötések víz jelenlétében megszakadhatnak, ilyenkor egy dimer részecskéből két monomer részecske keletkezik.
 18;fajhő;Megmutatja, hogy hány KJ hőmennyiség szükséges ahhoz, hogy az adott anyag 1kg tömegű részének hőmérsékletét 1 °C-kal növeljük.
-19;sűrűség;az adott térfogategység tömegének mértéke.
-20;;jele: ρ
+19;sűrűség;"az adott térfogategység tömegének mértéke.
+jele: ρ"
 21;oldat;Olyan keverék, amelyben a legnagyobb arányban jelen levő komponens folyadék halmazállapotú.
 22;oldott anyag;Az oldatban kisebb arányban jelen levő anyag.
 23;valódi oldat;Olyan vizes oldat, amiben az oldott anyag részecskéi 1nm-nél kisebbek. A fény akadálytalanul áthalad az oldaton.
@@ -45,8 +45,8 @@
 44;Lioszól állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrátburkok nem érnek, össze a kolloid részecskék szabadon mozognak, a részecskék között van szabad víz.
 45;Liogél állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrátburkok összeérnek, nincs szabad víz a részecskék között, a részecskék nem mozognak szabadon.
 46;Xerogél állapot;A kolloid rendszerek olyan állapota, amikor a kolloid részecskék körül levő hidrát burkok összeérnek, vékonyak, nincs a részecskék közt szabad víz, nem mozognak szabadon.
-47;Boltzmann- állandó;Az a fizikai állandó, amely a test hőmérséklete és az azt felépítő részecskék mozgási energiája közötti kapcsolatban szerepel. Megmutatja hogy1 foknyi hőmérséklet-emelkedés esetén adott anyag molekulája szabadságfokonként átlagosan hány k energiát vesz fel.
-48;;kB = 1,380649·10−23 J/K
+47;Boltzmann- állandó;"Az a fizikai állandó, amely a test hőmérséklete és az azt felépítő részecskék mozgási energiája közötti kapcsolatban szerepel. Megmutatja hogy1 foknyi hőmérséklet-emelkedés esetén adott anyag molekulája szabadságfokonként átlagosan hány k energiát vesz fel.
+kB = 1,380649·10−23 J/K"
 49;homogén rendszerek;A részecskék molekuláris, illetve atomi méretekben keverednek egymással, nincs a rendszerekben fázishatár.
 50;heterogén rendszerek;Olyan anyagi rendszer, amelyben egy vagy több fázishatár van.
 51;mikroheterogén rendszerek;A felület-térfogat aránya, illetve a felületi energia alapján csoportosított anyagi rendszer.
@@ -89,4 +89,3 @@
 88;lüktetési frekvencia;Lüktetések száma, egységnyi idő alatt.
 89;plazmolízis;Olyan folyamat, amely csak a sejtfallal rendelkező sejtekkel történhet meg. A külső tér oldott anyag koncentrációja magasabb, mint a sejt citoplazmájának oldott anyag koncentrációja. Ozmózis történik.  A víz kiáramlik a sejtből, a citoplazma összezsugorodik. A sejtmembrán elválik a sejtfaltól.
 90;deplazmolízis;Fordított plazmolízis. A külső térnek alacsonyabb az oldott anyag koncentrációja, mint a citoplazma oldott anyag koncentrációja. A víz beáramlik a sejtbe. A citoplazma térfogata nő. Megduzzad a sejt, de nem durran ki a sejtfalra gyakorolt nyomás miatt.
-;;
