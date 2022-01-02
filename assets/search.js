@@ -1,5 +1,7 @@
 var REGULAR_EXPRESSION_CONTROLS = ['\\', '(', ')', '['];
 
+var fakeExpression = { test: function() { return true; } };
+
 function escapeTerm(term) {
   var newTerm = term;
   for (index in REGULAR_EXPRESSION_CONTROLS) {
@@ -9,11 +11,9 @@ function escapeTerm(term) {
   return newTerm;
 }
 
-function titleMatches(title, searchTerm) {
-  if (searchTerm === '') return true;
-  var term = escapeTerm(searchTerm);
-  var expression = new RegExp(term, 'gi');
-  return expression.test(title);
+function buildExpression(searchTerm) {
+  if (searchTerm === '') { return fakeExpression; }
+  return new RegExp(escapeTerm(searchTerm), 'gi');
 }
 
 $(function() {
@@ -56,8 +56,9 @@ $(function() {
 
   $('<input class="searchterm" type="text" value="" placeholder="Keresés" />')
     .on('keyup', function(event) {
+      var expression = buildExpression(event.target.value);
       definitions.forEach(function(definition) {
-        if (titleMatches(definition.title, event.target.value)) {
+        if (expression.test(definition.title)) {
           definition.element.removeClass('flat');
         } else {
           definition.element.addClass('flat');

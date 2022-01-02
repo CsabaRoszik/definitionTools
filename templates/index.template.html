@@ -11,10 +11,11 @@
       }
 
       .flat {
+        overflow: hidden !important;
         max-height: 0 !important;
-        overflow: hidden;
         margin: 0 !important;
         padding: 0 !important;
+        border-width: 0 !important;
       }
 
       .definitions {
@@ -28,7 +29,7 @@
         padding: 5px;
         background-color: white;
         max-height: 2em;
-        transition: max-height .3s ease-in-out, margin .3s ease-in-out, padding .3s ease-in-out;
+        transition: max-height .3s ease-in-out, margin .3s ease-in-out, padding .3s ease-in-out, border-width .3s ease-in-out;
       }
 
       .searchterm {
